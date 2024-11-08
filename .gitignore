@@ -1,0 +1,12 @@
+# Virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Python Bytecode and Logs
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
